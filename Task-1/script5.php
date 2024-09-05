@@ -1,7 +1,7 @@
 <?php
 
-$firstname = "Shyam"; 
-$lastname = "Rupareliya";   
+$firstname = "ADITYARAJSINH"; 
+$lastname = "JADEJA";   
 
 
 echo "First Name: " . $firstname . "<br>";
